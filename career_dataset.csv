@@ -1,0 +1,301 @@
+Group,Math_Score,Tech_Interest,Creativity,Experience,Career
+Commerce,High,Yes,Low,No experience,Business Analyst
+Commerce,High,No,Low,4 years,Teacher
+Science,Low,Yes,High,1 year,Freelancer
+Science,Low,No,Medium,3 years,Lab Technician
+Commerce,Low,No,Low,2 years,Bank Teller
+Commerce,Medium,Yes,High,3 years,Sales Executive
+Humanities,Medium,Yes,Medium,5 years,Teacher
+Science,Low,Yes,Medium,No experience,Sales Executive
+Humanities,Low,No,High,2 years,Social Worker
+Humanities,Medium,Yes,Low,2 years,Freelancer
+Humanities,Low,Yes,High,3 years,Freelancer
+Commerce,Medium,Yes,Medium,5 years,Customer Service Rep
+Commerce,Medium,Yes,High,5 years,Sales Executive
+Humanities,High,Yes,Low,2 years,Graphic Designer
+Commerce,Low,No,Medium,3 years,Bank Teller
+Science,Low,No,Low,No experience,Lab Technician
+Commerce,High,No,High,2 years,Sales Executive
+Science,Medium,No,Low,5 years,Freelancer
+Science,Medium,No,High,No experience,Freelancer
+Science,Medium,No,Medium,3 years,Teacher
+Science,High,Yes,Low,4 years,Software Engineer
+Humanities,High,Yes,Low,2 years,Graphic Designer
+Humanities,Low,No,Low,No experience,Social Worker
+Commerce,High,No,High,5 years,Teacher
+Science,Low,Yes,Low,3 years,Customer Service Rep
+Science,High,No,High,3 years,Physicist
+Humanities,Low,No,Low,2 years,Social Worker
+Science,Medium,No,High,2 years,Freelancer
+Commerce,High,Yes,Medium,5 years,Business Analyst
+Humanities,Low,Yes,Low,1 year,Freelancer
+Science,Low,No,Low,2 years,Lab Technician
+Commerce,Low,Yes,Medium,1 year,Freelancer
+Humanities,Medium,No,Low,5 years,Journalist
+Humanities,Low,No,Low,3 years,Social Worker
+Humanities,Medium,Yes,Low,5 years,Teacher
+Humanities,High,Yes,Low,1 year,Graphic Designer
+Commerce,Medium,Yes,Low,3 years,Teacher
+Humanities,High,No,High,No experience,Artist
+Commerce,Low,No,Medium,No experience,Bank Teller
+Humanities,Low,No,Low,2 years,Social Worker
+Humanities,Medium,Yes,High,4 years,Customer Service Rep
+Humanities,Medium,No,Low,5 years,Journalist
+Humanities,Medium,No,Low,2 years,Journalist
+Science,Low,Yes,High,No experience,Customer Service Rep
+Commerce,High,Yes,Medium,4 years,Business Analyst
+Science,Low,No,Low,4 years,Lab Technician
+Commerce,Low,No,High,1 year,Bank Teller
+Commerce,Low,Yes,Medium,5 years,Customer Service Rep
+Humanities,High,No,High,3 years,Artist
+Humanities,High,No,Low,2 years,Artist
+Commerce,High,Yes,High,4 years,Business Analyst
+Science,Low,Yes,High,1 year,Customer Service Rep
+Science,High,Yes,Low,2 years,Software Engineer
+Humanities,Medium,Yes,Medium,5 years,Customer Service Rep
+Humanities,High,Yes,Low,1 year,Graphic Designer
+Science,Medium,Yes,Medium,5 years,Data Analyst
+Commerce,High,No,Low,2 years,Teacher
+Science,Low,Yes,Low,3 years,Sales Executive
+Science,High,No,Low,No experience,Physicist
+Humanities,Low,Yes,Low,1 year,Customer Service Rep
+Commerce,Low,No,Medium,3 years,Bank Teller
+Commerce,Low,Yes,Medium,4 years,Teacher
+Commerce,High,No,Medium,2 years,Sales Executive
+Commerce,High,No,High,4 years,Customer Service Rep
+Commerce,High,No,Medium,4 years,Sales Executive
+Commerce,Medium,No,Medium,5 years,Accountant
+Science,Medium,No,High,1 year,Customer Service Rep
+Humanities,Medium,Yes,High,3 years,Sales Executive
+Commerce,Low,No,Medium,2 years,Bank Teller
+Humanities,High,Yes,High,5 years,Graphic Designer
+Humanities,High,No,Medium,1 year,Artist
+Humanities,Medium,No,Low,No experience,Journalist
+Science,Low,Yes,High,5 years,Teacher
+Humanities,High,No,Medium,3 years,Artist
+Science,High,Yes,High,2 years,Software Engineer
+Humanities,Medium,Yes,Medium,4 years,Sales Executive
+Science,Medium,Yes,Medium,2 years,Data Analyst
+Humanities,Low,Yes,High,4 years,Customer Service Rep
+Science,Medium,Yes,Low,3 years,Data Analyst
+Science,Medium,Yes,Low,5 years,Data Analyst
+Commerce,Medium,Yes,Medium,2 years,Freelancer
+Commerce,Medium,No,Medium,4 years,Accountant
+Science,Medium,Yes,Low,1 year,Data Analyst
+Commerce,High,Yes,High,1 year,Business Analyst
+Science,High,Yes,Low,3 years,Software Engineer
+Science,High,No,Low,1 year,Physicist
+Commerce,Low,Yes,Low,1 year,Sales Executive
+Commerce,Medium,No,Low,1 year,Accountant
+Humanities,Medium,Yes,Low,3 years,Customer Service Rep
+Science,Medium,No,High,5 years,Customer Service Rep
+Science,Medium,Yes,Medium,No experience,Data Analyst
+Commerce,Medium,Yes,Medium,2 years,Customer Service Rep
+Humanities,Medium,Yes,High,5 years,Teacher
+Science,High,Yes,Low,1 year,Software Engineer
+Science,High,Yes,High,4 years,Software Engineer
+Science,High,Yes,High,4 years,Software Engineer
+Commerce,Low,No,High,5 years,Bank Teller
+Humanities,Medium,Yes,High,4 years,Sales Executive
+Commerce,Low,Yes,Medium,3 years,Teacher
+Humanities,Low,No,Low,2 years,Social Worker
+Science,Medium,No,High,1 year,Sales Executive
+Humanities,High,Yes,High,No experience,Graphic Designer
+Commerce,High,Yes,Medium,3 years,Business Analyst
+Science,Low,No,High,4 years,Lab Technician
+Commerce,High,Yes,High,4 years,Business Analyst
+Commerce,Low,No,Medium,5 years,Bank Teller
+Science,Medium,No,Medium,No experience,Freelancer
+Commerce,Medium,No,Medium,5 years,Accountant
+Humanities,Low,No,Low,4 years,Social Worker
+Humanities,Medium,Yes,Medium,5 years,Freelancer
+Humanities,High,Yes,High,5 years,Graphic Designer
+Science,Low,Yes,High,4 years,Customer Service Rep
+Science,High,No,Medium,5 years,Physicist
+Humanities,Medium,No,High,2 years,Journalist
+Commerce,High,Yes,Medium,No experience,Business Analyst
+Humanities,Low,Yes,Medium,2 years,Sales Executive
+Humanities,Low,Yes,High,2 years,Sales Executive
+Science,High,Yes,High,2 years,Software Engineer
+Humanities,High,Yes,Low,4 years,Graphic Designer
+Science,High,No,High,No experience,Physicist
+Commerce,Low,Yes,Low,5 years,Customer Service Rep
+Science,High,Yes,Medium,3 years,Software Engineer
+Science,Low,Yes,Medium,5 years,Customer Service Rep
+Science,High,Yes,Low,No experience,Software Engineer
+Science,High,No,Low,2 years,Physicist
+Commerce,Low,Yes,Medium,No experience,Customer Service Rep
+Commerce,Medium,No,High,4 years,Accountant
+Commerce,Medium,No,Medium,5 years,Accountant
+Commerce,High,No,Medium,2 years,Sales Executive
+Commerce,Medium,Yes,Low,1 year,Customer Service Rep
+Humanities,Low,Yes,Low,3 years,Teacher
+Commerce,High,No,Low,2 years,Sales Executive
+Science,Medium,Yes,Low,3 years,Data Analyst
+Humanities,Low,Yes,High,5 years,Teacher
+Humanities,Low,Yes,Low,2 years,Freelancer
+Humanities,Medium,No,High,2 years,Journalist
+Commerce,Low,Yes,Low,3 years,Sales Executive
+Commerce,Low,No,High,2 years,Bank Teller
+Humanities,High,No,High,1 year,Artist
+Science,Medium,Yes,Medium,No experience,Data Analyst
+Commerce,Low,Yes,Medium,2 years,Teacher
+Humanities,Low,Yes,High,3 years,Freelancer
+Humanities,High,No,Medium,1 year,Artist
+Humanities,Low,Yes,High,5 years,Freelancer
+Commerce,High,No,Medium,5 years,Customer Service Rep
+Science,Medium,No,Low,2 years,Freelancer
+Science,High,No,High,4 years,Physicist
+Commerce,High,Yes,Low,1 year,Business Analyst
+Science,Medium,Yes,Low,2 years,Data Analyst
+Commerce,Low,Yes,High,No experience,Customer Service Rep
+Humanities,High,No,Low,2 years,Artist
+Science,Low,No,Medium,1 year,Lab Technician
+Humanities,Low,No,High,No experience,Social Worker
+Science,Medium,Yes,High,5 years,Data Analyst
+Humanities,High,No,Medium,4 years,Artist
+Science,Low,Yes,High,No experience,Teacher
+Science,Medium,No,Low,2 years,Sales Executive
+Science,Low,No,Medium,2 years,Lab Technician
+Humanities,Low,No,Medium,2 years,Social Worker
+Commerce,Low,No,High,1 year,Bank Teller
+Humanities,Low,No,Low,3 years,Social Worker
+Commerce,Low,No,Low,3 years,Bank Teller
+Commerce,High,Yes,Medium,5 years,Business Analyst
+Science,Low,No,High,2 years,Lab Technician
+Commerce,Low,No,High,No experience,Bank Teller
+Science,Low,Yes,Medium,2 years,Customer Service Rep
+Science,High,No,High,4 years,Physicist
+Science,Low,Yes,Low,3 years,Freelancer
+Commerce,Low,No,Low,5 years,Bank Teller
+Commerce,High,Yes,High,5 years,Business Analyst
+Science,Medium,Yes,Medium,5 years,Data Analyst
+Humanities,Medium,No,Medium,4 years,Journalist
+Commerce,Low,Yes,Low,No experience,Sales Executive
+Humanities,Low,No,Medium,3 years,Social Worker
+Humanities,Medium,No,High,1 year,Journalist
+Humanities,High,Yes,Medium,1 year,Graphic Designer
+Science,Medium,No,High,4 years,Customer Service Rep
+Science,Medium,No,Medium,2 years,Sales Executive
+Humanities,High,Yes,Low,5 years,Graphic Designer
+Humanities,Low,Yes,Medium,4 years,Teacher
+Commerce,High,No,Medium,3 years,Freelancer
+Humanities,Medium,Yes,High,4 years,Freelancer
+Commerce,Low,Yes,Medium,4 years,Teacher
+Humanities,Medium,No,High,5 years,Journalist
+Humanities,High,No,Medium,3 years,Artist
+Science,Low,Yes,Medium,1 year,Freelancer
+Science,Low,Yes,Medium,5 years,Sales Executive
+Commerce,Low,Yes,Medium,1 year,Customer Service Rep
+Science,Low,No,Medium,1 year,Lab Technician
+Commerce,High,No,Medium,3 years,Sales Executive
+Science,High,Yes,High,4 years,Software Engineer
+Science,Low,No,Medium,No experience,Lab Technician
+Commerce,High,No,Low,4 years,Sales Executive
+Science,High,No,High,No experience,Physicist
+Commerce,Low,Yes,Low,3 years,Sales Executive
+Commerce,High,No,Medium,No experience,Customer Service Rep
+Science,High,No,Low,1 year,Physicist
+Humanities,High,Yes,Low,4 years,Graphic Designer
+Humanities,Medium,Yes,Medium,2 years,Freelancer
+Science,Low,No,High,3 years,Lab Technician
+Commerce,Medium,Yes,Medium,3 years,Teacher
+Humanities,Low,Yes,High,4 years,Teacher
+Science,High,No,High,4 years,Physicist
+Humanities,Low,Yes,Low,2 years,Customer Service Rep
+Science,High,Yes,Medium,2 years,Software Engineer
+Commerce,Medium,Yes,High,1 year,Freelancer
+Humanities,Low,Yes,Low,3 years,Customer Service Rep
+Science,High,No,High,3 years,Physicist
+Commerce,Medium,No,Low,3 years,Accountant
+Science,Medium,No,Medium,No experience,Customer Service Rep
+Humanities,Low,No,Low,1 year,Social Worker
+Commerce,Medium,No,High,1 year,Accountant
+Commerce,High,No,High,3 years,Freelancer
+Science,High,No,High,2 years,Physicist
+Humanities,Low,Yes,Low,3 years,Sales Executive
+Commerce,High,Yes,Medium,5 years,Business Analyst
+Science,Low,No,Low,1 year,Lab Technician
+Science,Low,No,Medium,2 years,Lab Technician
+Humanities,Medium,No,Medium,5 years,Journalist
+Science,Medium,Yes,Low,4 years,Data Analyst
+Science,High,No,Medium,2 years,Physicist
+Commerce,Low,No,Low,1 year,Bank Teller
+Humanities,Low,No,Medium,2 years,Social Worker
+Commerce,Low,Yes,Medium,4 years,Customer Service Rep
+Science,Medium,No,Low,5 years,Sales Executive
+Science,Medium,Yes,Low,5 years,Data Analyst
+Science,Low,No,High,4 years,Lab Technician
+Humanities,High,Yes,Medium,4 years,Graphic Designer
+Commerce,High,Yes,Low,5 years,Business Analyst
+Humanities,Medium,Yes,Medium,No experience,Freelancer
+Science,Low,Yes,High,1 year,Freelancer
+Humanities,Low,No,Medium,2 years,Social Worker
+Commerce,Medium,No,Medium,No experience,Accountant
+Humanities,Medium,No,Low,5 years,Journalist
+Science,High,Yes,Medium,4 years,Software Engineer
+Humanities,Low,Yes,Medium,2 years,Sales Executive
+Humanities,High,Yes,High,4 years,Graphic Designer
+Science,Low,Yes,Medium,5 years,Teacher
+Humanities,High,Yes,Medium,3 years,Graphic Designer
+Science,Low,No,Low,4 years,Lab Technician
+Science,High,No,Medium,No experience,Physicist
+Humanities,Medium,No,High,4 years,Journalist
+Humanities,Medium,Yes,Medium,No experience,Sales Executive
+Commerce,Medium,No,High,3 years,Accountant
+Humanities,Low,No,Low,1 year,Social Worker
+Commerce,High,Yes,Medium,5 years,Business Analyst
+Science,High,No,Medium,4 years,Physicist
+Science,Low,Yes,High,4 years,Customer Service Rep
+Commerce,Low,No,High,1 year,Bank Teller
+Commerce,Medium,No,High,4 years,Accountant
+Science,Medium,No,Medium,4 years,Sales Executive
+Science,Low,No,Low,5 years,Lab Technician
+Humanities,Medium,No,High,3 years,Journalist
+Science,Low,Yes,High,5 years,Sales Executive
+Humanities,Low,No,Medium,5 years,Social Worker
+Science,Medium,No,Medium,No experience,Freelancer
+Commerce,Low,Yes,Low,2 years,Sales Executive
+Science,High,Yes,Medium,1 year,Software Engineer
+Commerce,Low,No,Low,2 years,Bank Teller
+Humanities,High,No,Medium,1 year,Artist
+Commerce,Low,No,Low,No experience,Bank Teller
+Commerce,High,No,Low,No experience,Sales Executive
+Commerce,Low,No,High,No experience,Bank Teller
+Humanities,High,Yes,Medium,2 years,Graphic Designer
+Humanities,High,No,High,4 years,Artist
+Commerce,Medium,Yes,Medium,1 year,Teacher
+Science,Low,No,High,3 years,Lab Technician
+Science,High,No,Low,3 years,Physicist
+Commerce,High,Yes,High,1 year,Business Analyst
+Humanities,Medium,No,Low,2 years,Journalist
+Humanities,Low,No,High,1 year,Social Worker
+Humanities,High,Yes,Low,5 years,Graphic Designer
+Science,Medium,No,Medium,5 years,Customer Service Rep
+Science,High,Yes,Low,3 years,Software Engineer
+Commerce,High,No,Low,4 years,Teacher
+Commerce,Low,Yes,Medium,5 years,Sales Executive
+Humanities,Low,Yes,Medium,1 year,Sales Executive
+Science,High,No,High,5 years,Physicist
+Science,Medium,Yes,High,3 years,Data Analyst
+Humanities,Medium,Yes,Low,4 years,Teacher
+Humanities,Medium,No,High,No experience,Journalist
+Humanities,Low,Yes,Low,3 years,Teacher
+Humanities,Low,Yes,High,5 years,Teacher
+Commerce,Medium,Yes,Low,3 years,Teacher
+Commerce,Medium,Yes,Low,4 years,Teacher
+Science,Medium,Yes,Low,2 years,Data Analyst
+Science,Low,No,High,1 year,Lab Technician
+Science,Low,Yes,High,4 years,Freelancer
+Humanities,Medium,Yes,Low,5 years,Sales Executive
+Humanities,Low,Yes,Medium,No experience,Freelancer
+Science,High,No,Medium,2 years,Physicist
+Science,Medium,No,Medium,1 year,Customer Service Rep
+Humanities,Medium,Yes,High,1 year,Teacher
+Humanities,Medium,Yes,Low,5 years,Customer Service Rep
+Humanities,High,No,High,4 years,Artist
+Commerce,High,Yes,Medium,2 years,Business Analyst
+Humanities,Low,Yes,Low,2 years,Sales Executive
+Commerce,High,Yes,Medium,4 years,Business Analyst
+Science,Low,Yes,Medium,1 year,Teacher
+Commerce,Medium,Yes,High,1 year,Customer Service Rep
